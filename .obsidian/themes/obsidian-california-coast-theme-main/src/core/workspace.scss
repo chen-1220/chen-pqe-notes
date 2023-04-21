@@ -1,0 +1,109 @@
+:root {
+  --resize-handle-width: 2px;
+}
+
+.workspace {
+  background-color: var(--shade-5);
+
+  .is-translucent & {
+    background-color: var(--background-translucent);
+  }
+}
+
+.workspace-tabs {
+  padding-right: 0;
+
+  .workspace-split & {
+    background: var(--background-primary);
+  }
+
+  .workspace-leaf.mod-active {
+    border-color: transparent;
+  }
+}
+
+.workspace-split.mod-left-split,
+.workspace-split.mod-right-split {
+  font-size: var(--ui-font-size);
+
+  & > .workspace-leaf-resize-handle {
+    height: 100%;
+  }
+
+  &.is-collapsed,
+  &[style*="transition"] {
+    .workspace-tabs {
+      min-width: 200px;
+    }
+  }
+}
+
+.is-translucent .workspace-leaf-resize-handle,
+.workspace-leaf-resize-handle {
+  background-color: var(--shade-3-opaque);
+  border-color: transparent;
+  border-width: 0 !important;
+
+  &:hover {
+    background-color: var(--shade-5);
+    border-color: transparent;
+  }
+
+  .theme-dark & {
+    background-color: var(--dark-separator);
+
+    &:hover {
+      background-color: var(--shade-5);
+    }
+  }
+
+  .workspace-split.mod-left-split > & {
+    background-color: transparent;
+
+    &:hover {
+      background-color: var(--shade-5);
+    }
+  }
+
+  .workspace-split.mod-left-split > &,
+  .workspace-split.mod-right-split > & {
+    height: 100%;
+  }
+
+  .workspace-split.mod-vertical > * > &,
+  .workspace-split.mod-left-split > &,
+  .workspace-split.mod-right-split > & {
+    width: var(--resize-handle-width);
+
+    &:active {
+      background-color: var(--shade-10);
+      box-shadow: 1px 0 0 var(--shade-10), -1px 0 0 var(--shade-10);
+    }
+  }
+
+  .workspace-split.mod-horizontal > * > & {
+    height: var(--resize-handle-width);
+
+    &:active {
+      background-color: var(--shade-10);
+      box-shadow: 0 1px 0 var(--shade-10), 0 -1px 0 var(--shade-10);
+    }
+  }
+}
+
+.workspace-split.mod-vertical > .workspace-split,
+.workspace-split.mod-vertical > .workspace-leaf {
+  padding-right: var(--resize-handle-width);
+}
+
+.workspace-split.mod-root
+  > .workspace-leaf:first-of-type
+  .workspace-leaf-content {
+  border-top-left-radius: unset;
+}
+
+.workspace-split.mod-root
+  > .workspace-leaf:last-of-type
+  .workspace-leaf-content {
+  border-top-right-radius: unset;
+}

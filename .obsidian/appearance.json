@@ -1,0 +1,14 @@
+{
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "baseFontSize": 17,
+  "theme": "moonstone",
+  "accentColor": "",
+  "interfaceFontFamily": "霞鹜文楷",
+  "textFontFamily": "霞鹜文楷",
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "page-width"
+  ]
+}

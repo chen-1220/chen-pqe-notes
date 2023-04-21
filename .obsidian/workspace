@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "5f42a9c431f71d27",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1cd9a4d90896dba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "信号与系统/公式汇总.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e6c11c2b617cb26",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5fc1efa83beaa6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82961e29d4732f31",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb599da28eeec570",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "曲线积分",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2b0e569ac8b8679",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "00cd3f8bb3c703e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b37f076457a0119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d79d4421ce06e3a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "信号与系统/公式汇总.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47199fa3cf81f07b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "信号与系统/公式汇总.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a82fe9c733c7d57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "86a8262827725ac0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "信号与系统/公式汇总.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270
+  },
+  "active": "e1cd9a4d90896dba",
+  "lastOpenFiles": [
+    "信号与系统/证明汇总.md",
+    "信号与系统/真题复盘/2018年电科真题复盘.md",
+    "数学/整理要背下来的东西.md",
+    "信号与系统/公式汇总.md",
+    "信号与系统/5.拉斯变换.md",
+    "信号与系统/真题复盘/2019年电科真题复盘.md",
+    "数学/真题复盘/2022年考研真题.md",
+    "数学/1-18多元函数积分学.md",
+    "数学/1-17多元函数积分学的预备知识.md",
+    "数学/3-9参数估计与假设检验.md"
+  ]
+}

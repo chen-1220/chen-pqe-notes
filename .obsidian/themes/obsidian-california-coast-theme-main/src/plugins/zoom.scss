@@ -1,0 +1,48 @@
+body {
+  .cm-panels-top {
+    box-shadow: 0px 1px 3px rgb(0 0 0 / 8%);
+    border-bottom: none;
+  }
+
+  .zoom-plugin-header {
+    max-width: none;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: var(--font-interface);
+    font-weight: var(--medium-weight);
+    font-size: 1rem;
+    justify-content: flex-start;
+    margin: 0 auto;
+    padding: 10px 20px;
+  }
+
+  .zoom-plugin-title {
+    color: var(--text-muted);
+    display: inline-block;
+    max-width: 200px;
+    overflow: hidden;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 2px 0;
+
+    &:hover {
+      color: var(--text-accent);
+    }
+  }
+
+  .zoom-plugin-delimiter {
+    font-size: 0;
+    color: transparent;
+    margin: 0 10px;
+    
+    &::after {
+      font-size: 1rem;
+      color: var(--text-muted);
+      display: inline-block;
+      transform: scale(0.5, 0.85);
+      content: "▶";
+    }
+  }
+}

@@ -1,0 +1,34 @@
+/* Colorful active states */
+.colorful-active {
+	--sp1: #fff;
+
+	.nav-files-container {
+		--nav-item-background-active: var(--interactive-accent);
+		--nav-item-color-active: var(--sp1);
+	}
+
+	#calendar-container {
+		.active,
+		.active.today,
+		.active:hover,
+		.day:active {
+			background-color:var(--interactive-accent);
+			color:var(--sp1);
+		}
+		.day:active .dot,
+		.active .dot,
+		.today.active .dot {
+			fill:var(--sp1);
+		}
+	}
+}
+
+body:not(.colorful-active) {
+
+	.horizontal-tab-nav-item.is-active,
+	.vertical-tab-nav-item.is-active {
+		background-color: var(--background-modifier-hover);
+		color: var(--text-normal);
+	}
+
+}

@@ -1,0 +1,15 @@
+.cc-transparent-popover:not(.is-mobile):not(.is-translucent) {
+  .notice,
+  .menu {
+    background: rgba(245, 245, 245, 0.7);
+    backdrop-filter: blur(35px);
+    background-blend-mode: luminosity;
+  }
+
+  &.theme-dark {
+    .notice,
+    .menu {
+      background: rgba(30, 30, 30, 0.7);
+    }
+  }
+}

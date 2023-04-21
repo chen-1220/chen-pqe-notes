@@ -1,0 +1,37 @@
+/* Preview mode tables */
+
+.markdown-source-view.mod-cm6 table {
+	border-collapse: collapse; 
+}
+.markdown-preview-view table {
+	margin-block-start: 1em;
+}
+
+.markdown-source-view.mod-cm6,
+.markdown-preview-view {
+	.dataview.table-view-table thead.table-view-thead tr th,
+	td, th {
+		padding: 4px 10px;
+		&:first-child {
+			padding-left: 0;
+		}
+	}
+}
+
+body {
+	--table-header-border-width: 0 1px;
+	--table-column-first-border-width: 0;
+	--table-column-last-border-width: 0;
+	--table-row-last-border-width: 0;
+}
+
+/* Live Preview Tables */
+.is-live-preview .el-table {
+	width: 100%;
+	max-width: 100%;
+}
+.cm-s-obsidian .HyperMD-table-row span.cm-hmd-table-sep,
+.cm-hmd-table-sep-dummy {
+	color: var(--text-faint);
+	font-weight: 400;
+}

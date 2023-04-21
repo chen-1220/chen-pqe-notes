@@ -1,0 +1,4 @@
+.markdown-source-view.mod-cm6.is-line-wrap.is-readable-line-width .cm-line:not(.HyperMD-table-row) {
+    max-width: 2000px; /* 默认最大是700px，所以一定要带上，只要比width大就行。 */
+    width: 2000px;         /* 怎么舒服怎么来调整 */
+}
