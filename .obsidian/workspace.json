@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "数学/倒计时要背咯/整理要背下来的东西.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "数学/倒计时要背咯/整理要背下来的东西.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "数学/倒计时要背咯/整理要背下来的东西.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "数学/倒计时要背咯/整理要背下来的东西.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   },
   "active": "ba9bc6a07a12c9ae",
   "lastOpenFiles": [
+    "数学/倒计时要背咯/规范解题步骤.md",
+    "README.md",
     "markdown.md",
     "Excalidraw/采样原始信号.excalidraw.md",
     "最后十天-关于我为什么数学模考波动巨大的反思与总结.assets/最后十天-关于我为什么数学模考波动巨大的反思与总结.md",
@@ -184,12 +186,10 @@
     "英语/英语真题奇技淫巧.md",
     "英语/英语新题型.md",
     "英语/英语阅读总结.md",
-    "README.md",
     "不要管我叫啥名.md",
     "考研各科分数.md",
     "数学/倒计时要背咯/整理要背下来的东西.pdf",
     "数学/倒计时要背咯/整理要背下来的东西.md",
-    "数学/倒计时要背咯/规范解题步骤.md",
     "数学/常见空间曲面图像与极坐标图像.md",
     "数学/知识点整理/3-9参数估计与假设检验.md",
     "数学/知识点整理/3-8统计量.md",
