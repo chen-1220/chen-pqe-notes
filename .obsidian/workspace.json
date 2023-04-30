@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba9bc6a07a12c9ae",
+            "id": "3cfcf959c81ee4b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学/倒计时要背咯/整理要背下来的东西.md",
-                "mode": "preview",
+                "file": "数字电路/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b00427fcdf625757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数字电路/README.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 200
   },
   "right": {
     "id": "00cd3f8bb3c703e5",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学/倒计时要背咯/整理要背下来的东西.md",
+                "file": "数字电路/README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学/倒计时要背咯/整理要背下来的东西.md",
+                "file": "数字电路/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学/倒计时要背咯/整理要背下来的东西.md"
+                "file": "数字电路/README.md"
               }
             }
           },
@@ -143,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,53 +172,53 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "ba9bc6a07a12c9ae",
+  "active": "b00427fcdf625757",
   "lastOpenFiles": [
-    "数学/倒计时要背咯/规范解题步骤.md",
     "README.md",
+    "数字电路/README.md",
+    "信号与系统/README.md",
+    "Xmind导图/README.md",
+    "数字电路/5.半导体存储电路.md",
+    "数字电路/3.组合逻辑电路.md",
+    "数字电路/6.时序逻辑电路.md",
+    "数字电路/7.数模转换和模数转换.md",
+    "数字电路/2.逻辑门电路.md",
+    "数字电路/1.数字电路基础.md",
+    "时间轴-导出 (1).png",
+    "笔记照片/README图片/chen考研时间轴.png",
+    "Pasted image 20230430154510.png",
     "markdown.md",
-    "Excalidraw/采样原始信号.excalidraw.md",
     "最后十天-关于我为什么数学模考波动巨大的反思与总结.assets/最后十天-关于我为什么数学模考波动巨大的反思与总结.md",
-    "数字电路/考前注意项.md",
-    "笔记照片/思维导图/z变换mind.png",
-    "笔记照片/思维导图/Pasted image 20230301212705.png",
-    "笔记照片/思维导图/Pasted image 20230303151349.png",
-    "笔记照片/思维导图/Pasted image 20230301202636.png",
-    "笔记照片/思维导图/Pasted image 20230301160932.png",
-    "笔记照片/思维导图/Pasted image 20220829123656.png",
-    "笔记照片/思维导图/一元积分的方法汇总mind.png",
-    "笔记照片/思维导图/拉斯变换mind.png",
-    "笔记照片/思维导图/数列极限mind.png",
-    "笔记照片/思维导图/无穷级数mind.png",
-    "数学/知识点整理/3-4多维随机变量及其分布.md",
-    "数学/知识点整理/3-3一维随机变量函数的分布.md",
-    "数学/知识点整理/3-2一维随机变量及其分布.md",
-    "信号与系统/电路题综合.md",
+    "Pasted image 20230430153833.png",
+    "Pasted image 20230430152048.png",
+    "Pasted image 20230430153809.png",
+    "Pasted image 20230430153424.png",
+    "Pasted image 20230430152731.png",
+    "Pasted image 20230430152659.png",
+    "Pasted image 20230430152643.png",
+    "数学/README.md",
+    "Anki/README.md",
+    "Anki/政治anki.md",
+    "Anki/数学anki.md",
+    "Anki/信号与系统anki.md",
+    "信号与系统/整理要背下来的东西.md",
     "信号与系统/规范信号做题步骤.md",
-    "信号与系统/一些信号的频谱图解.md",
-    "英语/英语真题奇技淫巧.md",
-    "英语/英语新题型.md",
-    "英语/英语阅读总结.md",
-    "不要管我叫啥名.md",
-    "考研各科分数.md",
-    "数学/倒计时要背咯/整理要背下来的东西.pdf",
-    "数学/倒计时要背咯/整理要背下来的东西.md",
-    "数学/常见空间曲面图像与极坐标图像.md",
-    "数学/知识点整理/3-9参数估计与假设检验.md",
-    "数学/知识点整理/3-8统计量.md",
-    "数学/知识点整理/3-7大数定律与中心极限定理.md",
-    "数学/知识点整理/3-6数字特征.md",
-    "数学/知识点整理/3-5多维随机变量函数的分布.md",
-    "数学/知识点整理/3-1随机事件和概率.md",
-    "数学/知识点整理/2-6二次型.md",
-    "笔记照片/README图片",
-    "~$模拟题分值记录.xlsx",
-    "5.拉斯变换.pdf",
-    "政治/肖四分析题考察知识点.pdf",
-    "英语/写作功能句.pdf",
-    "信号与系统/整理要背下来的东西.pdf",
-    "笔记照片/数电图片",
-    "通信原理",
-    "textgenerator/prompts/default"
+    "信号与系统/电路题综合.md",
+    "信号与系统/真题复盘/2014年电科真题复盘.md",
+    "信号与系统/知识点整理/6.Z变换.md",
+    "信号与系统/知识点整理/5.拉斯变换.md",
+    "信号与系统/知识点整理/4.信号的频域分析.md",
+    "信号与系统/知识点整理/3.傅里叶变换.md",
+    "信号与系统/知识点整理/2.时域分析法.md",
+    "笔记照片/Xmind导图_README图片",
+    "Xmind导图/线性代数",
+    "Xmind导图/概率论",
+    "Xmind导图/英语/英语阅读总结.pdf",
+    "Excalidraw/Excalidraw手绘图片",
+    "笔记照片/Anki_README中图片",
+    "Anki/README.assets",
+    "Anki/新建 Text Document.txt",
+    "Anki/生成的anki卡牌/数学.apkg",
+    "Anki/生成的anki卡牌/政治.apkg"
   ]
 }

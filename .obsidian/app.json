@@ -12,6 +12,6 @@
   "readableLineLength": true,
   "foldHeading": true,
   "showFrontmatter": true,
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "foldIndent": false
 }
