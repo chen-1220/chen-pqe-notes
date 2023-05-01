@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数字电路/README.md",
-                "mode": "source",
-                "source": false
+                "file": "README.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数字电路/README.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数字电路/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数字电路/README.md"
+                "file": "README.md"
               }
             }
           },
@@ -169,13 +169,14 @@
       "random-note:开始漫游笔记": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "publish:发布更改": false
     }
   },
   "active": "b00427fcdf625757",
   "lastOpenFiles": [
-    "README.md",
     "数字电路/README.md",
+    "README.md",
     "信号与系统/README.md",
     "Xmind导图/README.md",
     "数字电路/5.半导体存储电路.md",
@@ -188,7 +189,7 @@
     "笔记照片/README图片/chen考研时间轴.png",
     "Pasted image 20230430154510.png",
     "markdown.md",
-    "最后十天-关于我为什么数学模考波动巨大的反思与总结.assets/最后十天-关于我为什么数学模考波动巨大的反思与总结.md",
+    "最后十天-关于我为什么数学模考波动巨大的反思与总结/最后十天-关于我为什么数学模考波动巨大的反思与总结.md",
     "Pasted image 20230430153833.png",
     "Pasted image 20230430152048.png",
     "Pasted image 20230430153809.png",
